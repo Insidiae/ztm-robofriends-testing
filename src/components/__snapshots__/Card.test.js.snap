@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> renders properly 1`] = `
+<div>
+  <div
+    class="tc grow bg-light-green br3 pa3 ma2 dib bw2 shadow-5"
+  >
+    <img
+      alt="robots"
+      src="https://robohash.org/1?size=200x200"
+    />
+    <div>
+      <h2>
+        Rob Botterson
+      </h2>
+      <p>
+        test@email.com
+      </p>
+    </div>
+  </div>
+</div>
+`;

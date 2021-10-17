@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CounterButton /> renders properly 1`] = `
+<div>
+  <button
+    color="red"
+    id="counter"
+  >
+    Count: 
+    0
+  </button>
+</div>
+`;
